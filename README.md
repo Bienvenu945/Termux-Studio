@@ -15,7 +15,7 @@ JSON coloré, tables automatiques, jauges, spinners et thèmes. Une seule dépen
 Menu principal (`python main.py --demo`, capture sans couleurs) :
 
 <p align="center">
-  <img src="termux-Studio.jpg" width="600" alt="Menu">
+  <img src="termux-studio.jpg" width="600" alt="Menu">
 </p>
 
 Résultat d'une commande (`python main.py --demo --run termux-battery-status`) :
