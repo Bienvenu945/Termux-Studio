@@ -14,45 +14,9 @@ JSON coloré, tables automatiques, jauges, spinners et thèmes. Une seule dépen
 
 Menu principal (`python main.py --demo`, capture sans couleurs) :
 
-```
-            ████████╗███████╗██████╗ ███╗   ███╗██╗   ██╗██╗  ██╗
-            ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║   ██║╚██╗██╔╝
-               ██║   █████╗  ██████╔╝██╔████╔██║██║   ██║ ╚███╔╝
-               ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║   ██║ ██╔██╗
-               ██║   ███████╗██║  ██║██║ ╚═╝ ██║╚██████╔╝██╔╝ ██╗
-               ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-                ███████╗████████╗██╗   ██╗██████╗ ██╗ ██████╗
-                ██╔════╝╚══██╔══╝██║   ██║██╔══██╗██║██╔═══██╗
-                ███████╗   ██║   ██║   ██║██║  ██║██║██║   ██║
-                ╚════██║   ██║   ██║   ██║██║  ██║██║██║   ██║
-                ███████║   ██║   ╚██████╔╝██████╔╝██║╚██████╔╝
-                ╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝
-             ⚡ termux-api · explorer · exécuter · visualiser ⚡
-╔═════════════════════════  ✦ TERMUX API STUDIO ✦  ══════════════════════════╗
-║                         Termux API Studio  v1.0.0                          ║
-║    Pilote ton Android depuis le terminal — termux-api, version badass.     ║
-╚════════════════  🖥  Desktop · 🐍 Python 3.12.3  MODE DÉMO  ════════════════╝
-╭─────────────────────────────  Menu principal  ─────────────────────────────╮
-│                                                                            │
-│  [1] 🔧  Matériel           Batterie, caméra, GPS, capteurs, Wi-Fi,        │
-│                             téléphonie (13)                                │
-│  [2] 💬  Communication      SMS, contacts, journal d'appels, appels (5)    │
-│  [3] 🧩  Système            Presse-papier, notifications, volume,          │
-│                             téléchargements (14)                           │
-│  [4] 🎵  Média              Voix, lecteur audio, micro, dialogues, fond    │
-│                             d'écran (10)                                   │
-│                                                                            │
-│  [5] ★  Favoris             0 commande(s) épinglée(s)                      │
-│  [6] 🔎 Rechercher          Filtrer par nom ou description                 │
-│  [7] ℹ  Infos               Environnement, version, chemins                │
-│                                                                            │
-│  [q] ✗  Quitter                                                            │
-│                                                                            │
-╰────────────────────────────────────────────────────────────────────────────╯
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-──────────────────────────────────────────────────────────────────────────────
-   💡 Astuce : termux-sms-send nécessite la permission SMS pour Termux:API.
-```
+<p align="center">
+  <img src="Termux-Studio.jpg" width="600" alt="Menu">
+</p>
 
 Résultat d'une commande (`python main.py --demo --run termux-battery-status`) :
 
